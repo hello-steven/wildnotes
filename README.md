@@ -11,6 +11,10 @@ Music discovery application. This project was born out of a Milwaukee hackathon 
 
 ## Getting Started
 
+## Verson Control Workflow
+
++ Project Guidelines: https://github.com/elsewhencode/project-guidelines#git
+
 ### Prerequisites
 
 ### Installing
