@@ -1,0 +1,18 @@
+<svg width="40" height="76" viewBox="0 0 40 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>marker</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-481 349)">
+<g id="marker">
+<g id="pin">
+<use xlink:href="#path0_fill" transform="translate(481 -349)" fill="#494E55"/>
+</g>
+<g id="rectangle">
+<use xlink:href="#path1_fill" transform="translate(487.674 -340.163)" fill="#DBC1A8"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 20.1446 76C 20.1446 76 39.9531 47.5504 39.9531 35.3488C 39.9531 1.76745 41.934 -2.11881e-05 20.1446 1.90482e-10C -1.64485 2.11885e-05 -0.456364 1.3255 0.336009 35.3488C 0.336009 47.5504 20.1446 76 20.1446 76Z"/>
+<path id="path1_fill" d="M 0 0.999999C 0 0.447715 0.447715 0 1 0L 25.1473 0C 25.6996 0 26.1473 0.447715 26.1473 1L 26.1473 28.1628C 26.1473 28.7151 25.6996 29.1628 25.1473 29.1628L 1 29.1628C 0.447716 29.1628 0 28.7151 0 28.1628L 0 0.999999Z"/>
+</defs>
+</svg>
