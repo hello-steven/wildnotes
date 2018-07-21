@@ -21,8 +21,8 @@ Music discovery application. This project was born out of a Milwaukee hackathon 
 
 To get Scroll Motion running on your local machine do the following steps.
 
-1. ```git clone https://github.com/whiteboxpub/scroll-motion.git```
-2. ```cd scroll-motion```
+1. ```git clone https://github.com/whiteboxpub/wildnotes.git```
+2. ```cd wildnotes```
 
 ## Built With
 * Vanilla JS
